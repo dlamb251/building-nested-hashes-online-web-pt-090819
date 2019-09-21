@@ -1,3 +1,2 @@
-def first_challenge
-   epic_tragedy = {}
+def epic_tragedy = {}
 end
